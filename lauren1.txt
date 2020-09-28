@@ -1,1 +1,3 @@
 this is my lauren 1 text document
+hi this is my second line of sample text
+this is modified content
